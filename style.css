@@ -1,0 +1,22 @@
+.main-div {
+    background: rgba(85, 114, 6, 0.897);
+    height: 900px;
+    display: flex;
+    align-items: center;
+}
+
+p {
+    width: 80%;
+    padding: 30px 30px;
+    text-align: center;
+    font-size: 26px;
+    color: rgb(6, 30, 252);
+
+}
+.quote-div {
+    width: 80%;
+}
+button {
+    width: 10%;
+    padding: 10px;
+}
